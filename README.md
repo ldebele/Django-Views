@@ -38,4 +38,4 @@ It provides only list and retrieve actions.
 There are multiple types of views in DRF. The most widely used ones are:
 1. class-based views that extends APIView class
 2. concrete views
-3. ReadOnlyModelViewSet
+3. ModelViewSet/ReadOnlyModelViewSet
